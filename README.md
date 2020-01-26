@@ -25,44 +25,83 @@ For this game I had 2 main games which I got idea from. Baldurs Gate Dark Allian
 Development
 Todo
 •	[X] Add player movement (could use improvement)
+
 •	[X] Add shooting arrows
+
 •	[X] Add sword combat
+
 •	[X] Add damage detection for slime monster
+
 •	[X] Add damage for player/slime attacks
+
 •	[X] Add health
+
 •	[ ] Dying
+
 •	[ ] Health Bar (maybe like one in Farcry 2 where it is split into segments and only auto-regens one segment and you need potions to regen other sections.
+
 •	[X] Add XP
+
 •	[X] Add Levelling Up and Character Stats
+
 •	[ ] Level Up Animation
+
 •	[ ] Add implementation of effects of all Stats
+
 •	[ ] Add dungeon generation? / Room progression
+
 •	[ ] Data Persistence to Save stuff between Rooms
+
 •	[X] Add different monsters
+
 •	[ ] Ghost
+
 •	[ ] Poison trail slime
+
 •	[ ] Fire Slimes
+
 •	[ ] Things other than slimes?
+
 •	[ ] Others
+
 •	[X] Inventory
+
 •	[ ] Make equipping different items show different models in-game
+
 •	[X] Items(Need Many More, but Framework is there)
+
 •	[ ] Chests/Loot Bags
+
 •	[ ] Items dropped by monsters
+
 •	[ ] More Weapons and Items
+
 •	[X] Menu/Settings
+
 •	[ ] Proper UI Scaling
+
 •	[X] Pause Menu
+
 •	[ ] Options
+
 •	[X] Start Menu
+
 •	[ ] Play Menu?
+
 •	[ ] Death Menu
+
 •	[ ] Add Red Vision at Low Health (Maybe we don't need this, it might look weird)
+
 •	[ ] Plot
+
 •	[ ] Sprucing up Looks and Making it look more professional (Models, textures, lighting, rendering, animations, particles, etc.)
+
 •	[ ] Tutorial
+
 •	[ ] Music
+
 •	[ ] Sound Effects
+
 •	[ ] Path finding/Better AI
 
 Things to Consider for future:
