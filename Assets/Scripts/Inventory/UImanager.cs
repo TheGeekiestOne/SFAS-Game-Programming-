@@ -1,7 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 public class UImanager : MonoBehaviour {
 	public bool isPaused;
 	public GameObject menu;

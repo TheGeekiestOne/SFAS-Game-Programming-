@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 public class Enemy : MonoBehaviour {
 
 	public float health;

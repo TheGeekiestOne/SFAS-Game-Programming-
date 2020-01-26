@@ -1,5 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 
 // Class responsible for handling Level Up Buttons
 public class StatButtonControls : MonoBehaviour {

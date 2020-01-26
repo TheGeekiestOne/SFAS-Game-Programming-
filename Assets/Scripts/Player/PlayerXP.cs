@@ -1,6 +1,11 @@
 ﻿using UnityEngine.UI;
 using System.Collections;
 using UnityEngine;
+
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 public class PlayerXP : MonoBehaviour {
 	public int level;
 	private Text xpDisplay;

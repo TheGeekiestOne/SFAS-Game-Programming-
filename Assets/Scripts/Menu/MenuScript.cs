@@ -1,7 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
-
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 public class MenuScript : MonoBehaviour {
     
 	public void Play() {

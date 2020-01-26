@@ -1,5 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 public class Inventory : MonoBehaviour {
 	public GameObject[] slots = new GameObject[12];
 	public Item[] items;

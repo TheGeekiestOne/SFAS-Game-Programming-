@@ -1,79 +1,187 @@
 fileFormatVersion: 2
 guid: 4829b12507997428e8671c726153e6f7
-timeCreated: 1481492824
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: Cube
-    100002: Icosphere
-    100004: Icosphere_001
-    100006: Icosphere_002
-    100008: Icosphere_003
-    100010: Icosphere_004
-    100012: Icosphere_005
-    100014: Icosphere_006
-    100016: Icosphere_007
-    100018: //RootNode
-    400000: Cube
-    400002: Icosphere
-    400004: Icosphere_001
-    400006: Icosphere_002
-    400008: Icosphere_003
-    400010: Icosphere_004
-    400012: Icosphere_005
-    400014: Icosphere_006
-    400016: Icosphere_007
-    400018: //RootNode
-    2300000: Cube
-    2300002: Icosphere
-    2300004: Icosphere_001
-    2300006: Icosphere_002
-    2300008: Icosphere_003
-    2300010: Icosphere_004
-    2300012: Icosphere_005
-    2300014: Icosphere_006
-    2300016: Icosphere_007
-    3300000: Cube
-    3300002: Icosphere
-    3300004: Icosphere_001
-    3300006: Icosphere_002
-    3300008: Icosphere_003
-    3300010: Icosphere_004
-    3300012: Icosphere_005
-    3300014: Icosphere_006
-    3300016: Icosphere_007
-    4300000: Icosphere
-    4300002: Cube
-    4300004: Icosphere_001
-    4300006: Icosphere_002
-    4300008: Icosphere_003
-    4300010: Icosphere_004
-    4300012: Icosphere_005
-    4300014: Icosphere_006
-    4300016: Icosphere_007
-    7400000: Default Take
-    9500000: //RootNode
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Cube
+  - first:
+      1: 100002
+    second: Icosphere
+  - first:
+      1: 100004
+    second: Icosphere_001
+  - first:
+      1: 100006
+    second: Icosphere_002
+  - first:
+      1: 100008
+    second: Icosphere_003
+  - first:
+      1: 100010
+    second: Icosphere_004
+  - first:
+      1: 100012
+    second: Icosphere_005
+  - first:
+      1: 100014
+    second: Icosphere_006
+  - first:
+      1: 100016
+    second: Icosphere_007
+  - first:
+      1: 100018
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Cube
+  - first:
+      4: 400002
+    second: Icosphere
+  - first:
+      4: 400004
+    second: Icosphere_001
+  - first:
+      4: 400006
+    second: Icosphere_002
+  - first:
+      4: 400008
+    second: Icosphere_003
+  - first:
+      4: 400010
+    second: Icosphere_004
+  - first:
+      4: 400012
+    second: Icosphere_005
+  - first:
+      4: 400014
+    second: Icosphere_006
+  - first:
+      4: 400016
+    second: Icosphere_007
+  - first:
+      4: 400018
+    second: //RootNode
+  - first:
+      23: 2300000
+    second: Cube
+  - first:
+      23: 2300002
+    second: Icosphere
+  - first:
+      23: 2300004
+    second: Icosphere_001
+  - first:
+      23: 2300006
+    second: Icosphere_002
+  - first:
+      23: 2300008
+    second: Icosphere_003
+  - first:
+      23: 2300010
+    second: Icosphere_004
+  - first:
+      23: 2300012
+    second: Icosphere_005
+  - first:
+      23: 2300014
+    second: Icosphere_006
+  - first:
+      23: 2300016
+    second: Icosphere_007
+  - first:
+      33: 3300000
+    second: Cube
+  - first:
+      33: 3300002
+    second: Icosphere
+  - first:
+      33: 3300004
+    second: Icosphere_001
+  - first:
+      33: 3300006
+    second: Icosphere_002
+  - first:
+      33: 3300008
+    second: Icosphere_003
+  - first:
+      33: 3300010
+    second: Icosphere_004
+  - first:
+      33: 3300012
+    second: Icosphere_005
+  - first:
+      33: 3300014
+    second: Icosphere_006
+  - first:
+      33: 3300016
+    second: Icosphere_007
+  - first:
+      43: 4300000
+    second: Icosphere
+  - first:
+      43: 4300002
+    second: Cube
+  - first:
+      43: 4300004
+    second: Icosphere_001
+  - first:
+      43: 4300006
+    second: Icosphere_002
+  - first:
+      43: 4300008
+    second: Icosphere_003
+  - first:
+      43: 4300010
+    second: Icosphere_004
+  - first:
+      43: 4300012
+    second: Icosphere_005
+  - first:
+      43: 4300014
+    second: Icosphere_006
+  - first:
+      43: 4300016
+    second: Icosphere_007
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: ffb79f95920d84dc8b6a9c4c889ad08b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -81,13 +189,23 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -97,9 +215,15 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -109,8 +233,11 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1

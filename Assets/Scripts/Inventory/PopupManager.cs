@@ -1,5 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
 
 // Class dedicated to making the buttons on the inventory and stat windows work
 // Should be attached to a class containing all elements of a UI Window like Stats and Inventory (both under Canvas)

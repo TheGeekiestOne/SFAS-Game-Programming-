@@ -2,6 +2,11 @@
 using UnityEngine.UI;
 using System.Collections;
 
+/*
+ * Created by : Ayran Olckers
+ * 01/2020
+ */
+
 // Handles text of stats
 public class StatUI : MonoBehaviour {
     // The text that lists each stat and its value
